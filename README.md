@@ -1,6 +1,6 @@
-# music_me
+# Xylophone App
 
-A new Flutter application.
+Thia app is built for demonstration and teaching purposes.
 
 ## Getting Started
 
